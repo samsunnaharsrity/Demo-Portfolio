@@ -1,0 +1,191 @@
+
+.section-head{
+    display: flex;
+    margin-top: 120px;
+    margin-left: 70px;
+    margin-right: 60px;
+    gap: 200px;
+    text-align: left;
+    
+}
+.head-title{
+    display: flex;
+    font-size: 40px;
+    border-left: 8px solid chocolate;
+    padding-left: 15px;
+
+}
+.head-para{
+   width: 470px;
+    font-size: 18px
+}
+
+.head-btn{
+    display: flex;
+    color: white;
+    background-color: chocolate;
+    border: none;
+    font:bold;
+    padding: 10px;
+    border-radius: 6px;
+    font-size: 16px
+}
+.title-img{
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+    position: relative;
+    justify-items: center;
+    margin-top: -290px;
+    z-index: 2;
+    margin-right: -400px;
+}
+.first-circle{
+    position: absolute;
+    background-color: blue;
+    height: 300px;
+    width: 300px;
+    border-radius: 100%;
+    margin-top: -49px;
+}
+.sec-circle{
+    position: relative;
+    background-color: rgb(31, 214, 214);
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin-left: 54px;
+}
+.sec-title{
+    font-size: 40px;
+    text-align: center;
+}
+.mission{
+    text-align: center;
+    background-color: rgb(204, 204, 248);
+    height: 250px;
+    width: 220px;
+    padding: 20px;
+    justify-content: space-between;
+    margin-right: 60px;
+    margin-left: 35px;
+    border-radius: 8px;
+} 
+ .card-feature{
+    display: flex;
+    align-items: center;
+    gap: 20px; 
+    height: 350px;
+    width: 100%;
+    padding: 20px;
+    margin-left: 90px;
+ }
+.sec-section img{
+    height: 50px;
+    width: 60px;
+}
+.sec-third{
+    display: flex;
+    margin-top: 120px;
+    margin-left: 170px;
+    margin-right: 160px;
+    gap: 20px;
+    flex-direction: row-reverse;
+}
+.third-title{
+    font-size: 40px;
+    text-align: left;
+}
+.sec-third-btn{
+     display: flex;
+    color: white;
+    background-color: chocolate;
+    border: none;
+    font:bold;
+    padding: 10px;
+    border-radius: 6px;
+    font-size: 16px
+}
+.sec-third-circle{
+     position: absolute;
+    background-color: rgb(250, 188, 118);
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+    margin-top: -28px;
+    margin-left: -80px;
+}
+.sec-third-circle-two{
+    position: relative;
+    background-color: rgb(243, 238, 238);
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-left: -53px;
+    
+}
+.third-sec-img{
+    position: relative;
+    margin-top: -190px;
+    height:260px;
+    width: 260px;
+    border-radius: 8px;
+}
+.sec-four{
+    display: flex;
+    margin-top: 120px;
+    margin-left: 170px;
+    margin-right: 160px;
+    gap: 20px;
+}
+.four-title{
+    font-size: 40px;
+    text-align: left;
+}
+.sec-four-btn{
+     display: flex;
+    color: white;
+    background-color: chocolate;
+    border: none;
+    font:bold;
+    padding: 10px;
+    border-radius: 6px;
+    font-size: 16px
+}
+.four-sec-img{
+    height:260px;
+    width: 260px;
+    border-radius: 8px;
+}
+.header{
+    text-align: center;
+    font-size: 40px;
+}
+.six-head{
+    display: flex;
+    margin-top: 120px;
+    margin-left: 170px;
+    margin-right: 160px;
+    gap: 20px;
+    flex-direction: row-reverse;
+}
+.six-title{
+    font-size: 40px;
+    text-align: left;
+}
+.six-btn{
+     display: flex;
+    color: white;
+    background-color: chocolate;
+    border: none;
+    font:bold;
+    padding: 10px;
+    border-radius: 6px;
+    font-size: 16px
+}
+.six-sec-img{
+    height:260px;
+    width: 260px;
+    border-radius: 8px;
+
+}
