@@ -1,4 +1,6 @@
-
+section{
+    margin-top: 70px;
+}
 .section-head{
     display: flex;
     margin-top: 120px;
@@ -188,4 +190,17 @@
     width: 260px;
     border-radius: 8px;
 
+}
+.sec-seven{
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+}
+.fotter-sec{
+    color: white;
+    font-size: 35px;
+}
+.footer-para{
+    color: white;
+    font-size: smaller;
 }
